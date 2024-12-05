@@ -54,6 +54,13 @@ When transitioning from the first to the second activity:
 - Custom LiveData: Stops UI updates in the first activity because it’s paused.
 - Default LiveData: Continues updating the UI in the paused activity.
 
+## Video 
+
+
+https://github.com/user-attachments/assets/7c718389-f733-44be-9e40-1768062fd82a
+
+
+
 ## Takeaway:
 
 I believe LiveData should ideally stop UI updates when the lifecycle owner is paused or stopped. This would ensure efficient resource usage and prevent unnecessary updates. 🌟
