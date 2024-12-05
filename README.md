@@ -57,7 +57,7 @@ When transitioning from the first to the second activity:
 ## Video 
 
 
-https://github.com/user-attachments/assets/7c718389-f733-44be-9e40-1768062fd82a
+https://github.com/user-attachments/assets/fff11e17-f3c7-4b8f-96c5-802d6186f4c5
 
 
 
